@@ -9,6 +9,8 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <a href="login.jsp">click</a>
+    ${applicationScope.email}
+    <h3>user validation done!!!!!</h3>
+    <a href="contacts.jsp">click</a>
 </body>
 </html>
